@@ -1,0 +1,17 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Labyrinth",
+"productVersion": "0.4",
+"dataUrl": "Labyrinth_Web.data.unityweb",
+"wasmCodeUrl": "Labyrinth_Web.wasm.code.unityweb",
+"wasmFrameworkUrl": "Labyrinth_Web.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Labyrinth_Web.jpg",
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.5f1"
+}
